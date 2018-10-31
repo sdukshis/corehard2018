@@ -1,0 +1,6 @@
+[requires]
+gtest/1.8.1@bincrafters/stable
+eigen/3.3.5@conan/stable
+
+[generators]
+cmake
